@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\bin\Debug\VerKeyword.exe.config
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\bin\Debug\VerKeyword.exe
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\bin\Debug\VerKeyword.pdb
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\obj\Debug\VerKeyword.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\obj\Debug\VerKeyword.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\obj\Debug\VerKeyword.exe
+C:\Users\user\OneDrive\Documents\C#\freecodecamp basic\VerKeyword\VerKeyword\obj\Debug\VerKeyword.pdb
